@@ -1,0 +1,69 @@
+Developer stuff: 
+	- Stuff I like to do 
+		- Graphics
+		- 2D and 3D 
+		- application layer things
+		- mess around in UE4 and unity and some other engines. 		
+	- Things that i know how to do 
+		- Languages: C#, Java, C++, Javascript. 
+			- less known : HTML, CSS, SQL, Perl. 
+		- Frameworks: Skia, Fixed Pipeline OpenGL, D2D, Spring, Angular
+		- Technologies: 
+		- Toolkit: Visiual Studio, Sublime Text, notepad++		
+	- Things i kinda know
+		- Some web stuff
+	- Projects to back 'em up 
+		- hackathons
+		- Stupid game hackathon game thing
+		- stupid android app thing 
+		- Graphics engine
+	- Github link
+	
+Where I went to school/Work history: 
+	- UCSD 2010-2015, B.S. in computer science. 
+	- Internships and the things I did. Pull content from resume. 
+		- WebAdvanced
+		- Broadcom
+		- Moebius Solutions
+ 	- Real Jobs: Bluebeam software
+ 		- Position: Software Engineer
+ 		- Worked on flagship product, Revu
+		- Application level and 2D drawing
+
+Gaming stuff: 
+	- Dota
+	- Counter-Strike
+	- League
+
+Weeb stuff: 
+	- MAL things
+
+Keyboard stuff: 
+	- keyboard pics, things i like about them, end game etc. 
+
+airsoft stuff: 
+	- Pics of guns
+	- When I started playing 
+
+Music stuff: 
+	- music that i like
+	- pics of guitar
+	- how long i've been playing
+	- sample music. 
+
+
+Notes: Later on might want to dynamically have stuff instead of hardcoding in the static things. 
+
+eventually convert the website to angular and have all the portfolio data as plaintext somewhere. 
+
+hover over for gif replay of a project video. 
+
+
+Hey everyone, I'm a programmer with a few years of experience under my belt. Graduated from UCSD in 2015 with a CSE degree, I charged headlong into the forray of professional software development starting at Bluebeam Softare.Before that I had a few iternship doing various things ranging from firmware testing to web applications. 
+I have an interest in 3D and 2D graphics programming, as well as tinkering around with web technologies. 
+Though really at heart I just like making things people can use, or at least something pretty to look at. 
+
+
+Been playing games ever since I was a child. Earliest memories were with the NES on a 19 inch CRT and some PC games like Jazz Rabbit and Descent. After the N64, PC became my platform of choice ever since. Favorite games back then were Starcraft: Brood War, Unreal Tournament, Counter-Strike 1.6, Warcraft 3, and DotA. Nowadays I primarily play Dota 2, CS:GO, and League of Legends. 
+
+background images for modules on front page. 
