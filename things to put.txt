@@ -67,3 +67,5 @@ Though really at heart I just like making things people can use, or at least som
 Been playing games ever since I was a child. Earliest memories were with the NES on a 19 inch CRT and some PC games like Jazz Rabbit and Descent. After the N64, PC became my platform of choice ever since. Favorite games back then were Starcraft: Brood War, Unreal Tournament, Counter-Strike 1.6, Warcraft 3, and DotA. Nowadays I primarily play Dota 2, CS:GO, and League of Legends. 
 
 background images for modules on front page. 
+
+split up nav bar into its own template. 
