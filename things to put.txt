@@ -69,3 +69,5 @@ Been playing games ever since I was a child. Earliest memories were with the NES
 background images for modules on front page. 
 
 split up nav bar into its own template. 
+
+have a slow scrolling up, or different directions and instead of using a slider use a fade.  
